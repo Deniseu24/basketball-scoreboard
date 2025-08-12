@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    color: #EEEEEE;
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+.container {
+    background: #1B244A;
+    margin: 50px auto;
+    padding: 50px;
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#home-el {
+    background-color: #080001;
+    color: #F94F6D;
+    font-family: '60s Scoreboard', sans-serif;
+    font-size: 50px;
+    padding: 10px 50px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+#away-el {
+    background-color: #080001;
+    color: #F94F6D;
+    font-family: '60s Scoreboard', sans-serif;
+    font-size: 50px;
+    padding: 10px 50px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.btn-default {
+    color: #9AABD8;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-size: 12px;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    background: none;
+    padding: 10px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 0 2px;
+    margin-top: 20px;
+}
