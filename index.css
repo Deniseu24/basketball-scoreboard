@@ -22,7 +22,7 @@ h3 {
 
 #home-el {
     background-color: #080001;
-    color: #F94F6D;
+    color: #FDB927;
     font-family: '60s Scoreboard', sans-serif;
     font-size: 50px;
     padding: 10px 50px;
@@ -32,7 +32,7 @@ h3 {
 
 #away-el {
     background-color: #080001;
-    color: #F94F6D;
+    color: #FDB927;
     font-family: '60s Scoreboard', sans-serif;
     font-size: 50px;
     padding: 10px 50px;
@@ -41,10 +41,10 @@ h3 {
 }
 
 .btn-default {
-    color: #9AABD8;
+    color: #FDB927;
     font-family: 'Cursed Timer ULiL', sans-serif;
     font-size: 12px;
-    border: 2px solid #9AABD8;
+    border: 2px solid #FDB927;
     border-radius: 5px;
     background: none;
     padding: 10px;
